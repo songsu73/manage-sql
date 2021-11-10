@@ -1,6 +1,11 @@
 # Manage SQL Repo
 
+SQL 관리 저장소.  
+최종적으로 bat 파일을 통해 테이블을 모두 생성하고 테스트용 데이터를 INSERT하는 것이 목적입니다.
+
 ## Images
+
+---
 
 **`Figure`**
 ![image](https://user-images.githubusercontent.com/61080445/141109056-b260d3b5-250b-4f82-add1-91283d426f29.png)
@@ -10,6 +15,7 @@
 **`Table: sec_show`**
 ![image](https://user-images.githubusercontent.com/61080445/141109319-164952f4-daf7-4c8e-9fad-dbae55a3d9cd.png)
 
+---
 
 ## ToDo
 
