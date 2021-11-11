@@ -17,11 +17,10 @@ CREATE TABLE secNall (
   s1min NUMBER(4),
   s1max NUMBER(4),
   s1avg NUMBER(4),
-
+  
   s2min NUMBER(4),
   s2max NUMBER(4),
   s2avg NUMBER(4),
-  123456
 
   s3min NUMBER(4),
   s3max NUMBER(4),
